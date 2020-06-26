@@ -12,3 +12,5 @@ $ docker-compose up -d --build
 Visit the URL to know available API endpoints.
 * [API Docs](http://localhost:8002/docs)
 
+Credits - [TestDriven.io post](https://testdriven.io/blog/fastapi-crud)
+
